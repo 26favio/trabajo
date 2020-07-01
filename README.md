@@ -1,2 +1,2 @@
-# trabajo
-una pagina creada 
+# restaurante
+Página web sobre un restaurante
